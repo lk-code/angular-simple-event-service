@@ -4,6 +4,8 @@ import { Injectable } from '@angular/core';
  * Simple Angular EventService
  * by Lars Krämer - lkraemer.de
  * 
+ * view on GitHub: https://github.com/lk-code/angular-simple-event-service
+ * 
  * ##################################################################################
  * 
  * MIT License
